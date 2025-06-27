@@ -27,20 +27,20 @@
 // console.log("5. Code continues while file is being read...");
 // run in loupe and vs code and illustrate what is happening u can remind all 2 hr concept in this single code
 
-class rect{
-    constructor(wid,hgh,clr){
-        this.wid=wid;
-        this.hgh=hgh;
-        this.clr=clr;
-    }
-    area(){
-        return this.wid*this.hgh;
-    }
-    color(){
-        console.log(`this color is ${this.clr}`)
-    }
-}
-const rect1=new rect(2,4,"red")
-const area=rect1.area()
-console.log(area)
-rect1.color()
+// class rect{
+//     constructor(wid,hgh,clr){
+//         this.wid=wid;
+//         this.hgh=hgh;
+//         this.clr=clr;
+//     }
+//     area(){
+//         return this.wid*this.hgh;
+//     }
+//     color(){
+//         console.log(`this color is ${this.clr}`)
+//     }
+// }
+// const rect1=new rect(2,4,"red")
+// const area=rect1.area()
+// console.log(area)
+// rect1.color()
