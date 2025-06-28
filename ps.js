@@ -44,8 +44,8 @@
 // const area=rect1.area()
 // console.log(area)
 // rect1.color()
- const map=new Map();
- map.set('name','hello')
- map.set('no',30)
+//  const map=new Map();
+//  map.set('name','hello')
+//  map.set('no',30)
 
- console.log(map.get('name'))
+//  console.log(map.get('name'))
